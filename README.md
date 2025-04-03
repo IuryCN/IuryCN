@@ -6,7 +6,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Iury+Nolasco;I+Am+23+Years+Old;I+Work+in+Metallic+Recovery;I+Am+a+Data+Science+Student;Welcome+to+My+Profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Iury+Nolasco;I+Am+23+Years+Old;I+Work+in+Metallic+Recovery;I+Am+A+Bold+Investor;I+Am+Self-taught+in+Data+Science;Based+in+Sorocaba/SP)]
 
 ---
 
@@ -23,8 +23,7 @@
 ### 📊 Estatísticas do GitHub:
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IuryCN&theme=highcontrast&show_icons=true">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryCN&layout=compact&langs_count=6&hide=html,css&theme=highcontrast">
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryCN&layout=compact&langs_count=10&theme=highcontrast">
 </div>
 
 ---
