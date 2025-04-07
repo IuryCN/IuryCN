@@ -1,42 +1,49 @@
-### Olá, Sou Iury 😁  
-- 🏭 Atualmente trabalhando na recuperação metálica em uma multinacional siderúrgica  
-- 💸 Um investidor arrojado em diversos mercados  
-- 👨🏻‍🔬 Autodidata na área de dados  
-- 📍 Sorocaba/SP  
+# Olá, sou o Iury! 😄 | Hi, I'm Iury!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+Atualmente trabalho com recuperação metálica em uma multinacional siderúrgica — mas estou em transição para a área de **Ciência de Dados**.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Iury+Nolasco;I'm+23+Years+Old;I+Work+in+Metallic+Recovery;I+Am+A+Bold+Investor;I+Am+Self-taught+in+Data+Science;Based+in+Sorocaba/SP)
+Currently working in metallic recovery at a multinational steel company — transitioning to the **Data Science** field.
 
 ---
 
-### 🚀 Tecnologias que utilizo:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+## Sobre mim | About me:
+- 🏭 Operador de máquinas pesadas na Gerdau  
+  Heavy machinery operator at Gerdau
+- 🧠 Estudante de Ciência de Dados (EBAC) e Big Data (FIAP)  
+  Data Science student (EBAC) and Big Data (FIAP)
+- 📈 Investidor arrojado, apaixonado por dados e estratégia  
+  Bold investor, passionate about data and strategy
+- 🧑‍💻 Autodidata, sempre aprendendo algo novo  
+  Self-taught learner, always exploring new skills
+- 📍 Sorocaba/SP, Brasil
 
 ---
 
-### 📊 Estatísticas do GitHub:
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IuryCN&theme=highcontrast&show_icons=true">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryCN&layout=compact&langs_count=10&theme=highcontrast">
-</div>
+## Tecnologias que estudo e utilizo | Technologies I use and study:
+🚀  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 ---
 
-### 🔗 Repositório em destaque:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IuryCN&repo=conversor_moedas)](https://github.com/IuryCN/conversor_moedas)
+## Curiosidades | Fun facts:
+- 📚 Leitor voraz de não-ficção: filosofia, neurociência, finanças...  
+  Avid reader of non-fiction: philosophy, neuroscience, finance...
+- ☕ Viciado em café e em aprender  
+  Addicted to coffee and learning
+- 🧩 Curioso por natureza, obcecado por melhoria contínua  
+  Naturally curious, obsessed with continuous improvement
 
 ---
 
-### 📫 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iurycn/)
-[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IuryCN)
+## Conecte-se comigo | Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/iurycn)
+- [Instagram](https://www.instagram.com/iurycn_)
+- [X/Twitter](https://twitter.com/IuryCN_)
+- [Skoob](https://www.skoob.com.br/usuario/6865315)
 
----
-
-🔹 *Sempre aprendendo e evoluindo na jornada tech! 🚀*
+> _"Manere Fortis, Maneat Bene" — Stay strong, stay good._
