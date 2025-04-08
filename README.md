@@ -16,7 +16,8 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iuryCN&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryCN&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryCN&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iuryCN&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
@@ -82,6 +83,10 @@
 </p>
 
 ---
+<p align="center">
+<strong>"A sorte favorece a mente bem preparada."
+— Sêneca</strong>
+</p>
 
 ⭐ Obrigado por sua visita!  
 ⭐ Thank you for stopping by!
