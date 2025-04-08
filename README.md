@@ -1,49 +1,47 @@
-# Olá, sou o Iury! 😄 | Hi, I'm Iury!
-
-Atualmente trabalho com recuperação metálica em uma multinacional siderúrgica — mas estou em transição para a área de **Ciência de Dados**.
-
-Currently working in metallic recovery at a multinational steel company — transitioning to the **Data Science** field.
+<h1 align="center">Olá 👋! Meu nome é Iury Chaves Nolasco</h1>
+<h3 align="center">Sou um Operador de Máquinas Pesadas e aspirante a Cientista de Dados do Brasil 🇧🇷</h3>
 
 ---
 
-## Sobre mim | About me:
-- 🏭 Operador de máquinas pesadas na Gerdau  
-  Heavy machinery operator at Gerdau
-- 🧠 Estudante de Ciência de Dados (EBAC) e Big Data (FIAP)  
-  Data Science student (EBAC) and Big Data (FIAP)
-- 📈 Investidor arrojado, apaixonado por dados e estratégia  
-  Bold investor, passionate about data and strategy
-- 🧑‍💻 Autodidata, sempre aprendendo algo novo  
-  Self-taught learner, always exploring new skills
-- 📍 Sorocaba/SP, Brasil
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=iuryCN&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="Iury Nolasco's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryCN&layout=compact&theme=radical" alt="Most Used Languages" />
+  
+</div>
 
 ---
 
-## Tecnologias que estudo e utilizo | Technologies I use and study:
-🚀  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+### 🚀 Tecnologias que estou explorando:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</div>
 
 ---
 
-## Curiosidades | Fun facts:
-- 📚 Leitor voraz de não-ficção: filosofia, neurociência, finanças...  
-  Avid reader of non-fiction: philosophy, neuroscience, finance...
-- ☕ Viciado em café e em aprender  
-  Addicted to coffee and learning
-- 🧩 Curioso por natureza, obcecado por melhoria contínua  
-  Naturally curious, obsessed with continuous improvement
+### 📫 Como me encontrar:
+<div align="center">
+  <a href="https://www.linkedin.com/in/iurychavesnolasco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iurycnolasco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## Conecte-se comigo | Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/iurycn)
-- [Instagram](https://www.instagram.com/iurycn_)
-- [X/Twitter](https://twitter.com/IuryCN_)
-- [Skoob](https://www.skoob.com.br/usuario/6865315)
+### 🐍 Snake eating my contributions:
+<div align="center">
+  <img src="https://github.com/iuryCN/iuryCN/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-> _"Manere Fortis, Maneat Bene" — Stay strong, stay good._
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/Ff6zBJUj9WkAAAAi/cute-anime.gif" height="150" />
+</div>
