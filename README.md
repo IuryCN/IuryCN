@@ -5,6 +5,8 @@
   Apaixonado por tecnologia, dados, livros e pela ideia de transformar o mundo com boas decisões baseadas em informação.
 </p>
 
+<p align="center"><em>“manere fortis, manere bene”</em> 🛡️</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -35,6 +37,12 @@
   <a href="mailto:iury.nolasco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/iury.nolasco/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.skoob.com.br/usuario/12691105-iury" target="_blank">
+    <img src="https://img.shields.io/badge/Skoob-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -51,3 +59,4 @@
 ---
 
 ⭐ Vamos nos conectar e compartilhar conhecimento!
+
