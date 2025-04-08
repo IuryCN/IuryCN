@@ -36,16 +36,16 @@
 ### 🌐 Como me encontrar | Where to find me:
 
 <p>
-  <a href="https://www.linkedin.com/in/iurychavesnolasco/" target="_blank">
+  <a href="https://www.linkedin.com/in/iurycn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 🔗
   </a>
   <a href="mailto:iury.nolasco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 📬
   </a>
-  <a href="https://www.instagram.com/iury.nolasco/" target="_blank">
+  <a href="https://www.instagram.com/iurycn_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 📸
   </a>
-  <a href="https://www.skoob.com.br/usuario/12691105-iury" target="_blank">
+  <a href="https://www.skoob.com.br/usuario/6865315" target="_blank">
     <img src="https://img.shields.io/badge/Skoob-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white"/> 📖
   </a>
 </p>
