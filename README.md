@@ -1,14 +1,14 @@
 <h1 align="center">Olá 👋! Meu nome é Iury Chaves Nolasco</h1>
-<h1 align="center">Hi there 👋! I'm Iury Chaves Nolasco</h1>
+<h1 align="center">Hi there 👋! I'm Iury Chaves Nolasco 🌎</h1>
 
 <p align="center">
-  Sou um <strong>Operador de Máquinas Pesadas 🏗️</strong> e aspirante a <strong>Cientista de Dados do Brasil 🇧🇷</strong><br>
-  Apaixonado por tecnologia 💻, dados 📊, livros 📚 e pela ideia de transformar o mundo 🌍 com boas decisões baseadas em informação.<br><br>
-  I'm a <strong>Heavy Machinery Operator 🏗️</strong> and aspiring <strong>Data Scientist from Brazil 🇧🇷</strong><br>
-  Passionate about tech 💻, data 📊, books 📚, and the idea of changing the world 🌍 with better information-based decisions.
+  Sou um <strong>Operador de Máquinas Pesadas</strong> e autodidata em <strong>Ciência de Dados</strong><br>
+  Apaixonado por tecnologia 💻, dados 📊, livros 📚, investimentos 💵 e pela ideia de transformar o mundo 🌍 com boas decisões baseadas em <strong>DADOS! 📈</strong><br><br>
+  I'm a <strong>Heavy Machinery Operator </strong> and aspiring <strong>Data Scientist from Brazil 🇧🇷</strong><br>
+  Passionate about tech 💻, data 📊, books 📚,  investiments 💵 and the idea of changing the world 🌍 with better information-based decisions.
 </p>
 
-<p align="center"><em>“manere fortis, manere bene”</em> 🛡️<br><em>stay strong, stay well</em></p>
+<p align="center"><em>“manere fortis, manere bene”</em> 🛡️<br><em>stay strong, stay well🛡️</em></p>
 
 ---
 
@@ -53,7 +53,7 @@
 
 ### 📚 Sobre mim | About me
 
-- 📍 Sorocaba/SP  
+- 📍 Sorocaba/SP - Brasil  
 - 🛠️ Operador de máquinas há 6 anos / 6 years of experience in heavy machinery  
 - 🎯 Em transição de carreira para a área de Dados / Transitioning into the Data field  
 - 📖 Apaixonado por livros de não-ficção / Non-fiction book lover  
@@ -62,7 +62,27 @@
 
 ---
 
+### 🧠 Projetos em andamento | Projects in progress
+
+🚧 Em breve compartilharei meus primeiros projetos na área de dados e automações com Python!  
+🚧 Soon I’ll share my first data projects and Python automations!
+
+---
+
+### 🏅 Certificações | Certifications
+
+📜 Em formação em Ciência de Dados (Alura + FIAP + Alura + AdaTech)  
+📜 Studying Data Science (Alura + FIAP + Alura + AdaTech)
+
+---
+
+<p align="center">
+  Feito com ☕, livros 📚 e muitos sonhos 🚀<br>
+  Made with ☕, books 📚 and big dreams 🚀
+</p>
+
+---
+
 ⭐ Obrigado por sua visita!  
 ⭐ Thank you for stopping by!
-
 
