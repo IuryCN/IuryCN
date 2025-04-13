@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋! Meu nome é Iury Chaves Nolasco</h1>
-<h1 align="center">Hi there 👋! I'm Iury Chaves Nolasco 🌎</h1>
+<h1 align="center">Olá 👋! Meu nome é Iury Nolasco</h1>
+<h1 align="center">Hi there 👋! I'm Iury Nolasco 🌎</h1>
 
 <p align="center">
   Sou um <strong>Operador de Máquinas Pesadas</strong> e autodidata em <strong>Ciência de Dados</strong><br>
