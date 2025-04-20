@@ -8,7 +8,10 @@
 - 🎯 Em transição para a área de Dados / Transitioning into Data  
 - 📖 Apaixonado por livros e aprendizado contínuo / Passionate about books and continuous learning  
 - 🌎 Sonhando em trabalhar remotamente e morar fora / Dreaming of working remotely and living abroad  
-<pre>for(let i = 0; i < 10; i++) { console.log("I love books"); }</pre>
+<pre>for (let i = 0; i < 1000000; i++) {
+  console.log("I love books & Technologies");
+}
+</pre>
 ---
 ### 📊 GitHub Stats - Stats from my GitHub
 
